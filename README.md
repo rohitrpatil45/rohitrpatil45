@@ -11,8 +11,8 @@
 </div>
 
 ###
-
-<p align="center"> 🛠️ My Tech Stack
+ <h3 align="center">🛠️ My Tech Stack</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,tailwind,figma" />
 </p>
 
