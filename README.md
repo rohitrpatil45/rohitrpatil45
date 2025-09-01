@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 <p align="center">
-  🌱 I’m currently learning <b>Express.js & GSAP</b> <br/>
+  🌱 I’m currently learning <b>Develops</b> <br/>
   🎯 Goals: Master full-stack development & create impactful digital products <br/>
   ⚡ Fun fact: I love solving problems and exploring new tools
 </p>
