@@ -1,9 +1,8 @@
-<h1 align="center">Rohit  Patil</h1>
+<h1 align="center">Hi, I'm Rohit Patil 👋</h1>
 
 ###
 
-<p align="center">MERN Stack Developer skilled in building responsive web applications using MongoDB, Express.js, React, and Node.js. Passionate about creating clean UIs, efficient APIs, and delivering user-friendly digital solutions.</p>
-
+<h3 align="center">🚀 MERN Stack Developer | Building Scalable Web Apps</h3>
 ###
 
 <div align="center">
@@ -14,7 +13,7 @@
 ###
 
 <div align="center">
-  <h2 align="center"> My ToolKit</h2>
+  <h2 align="center"> 🛠️ My Tech Stack</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -50,7 +49,7 @@
 ###
 
 <div align="center">
-   <h3 align="center">Find Me On </h3>
+   <h3 align="center">🌐 Connect with Me </h3>
   <a href="https://www.linkedin.com/in/rohit-patil-56a634247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
