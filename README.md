@@ -56,11 +56,3 @@
 </p>
 
 
----
-
-🔥 This setup will make your profile look **modern & attractive**.  
-
----
-
-👉 Do you also want me to add a **cool animated typing header** like:  
-
