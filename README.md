@@ -41,9 +41,10 @@
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="
+https://www.linkedin.com/in/rohit-patil-56a634247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="[https://twitter.com/your-link](https://x.com/RohitPatil82428?t=XWU5XjUUH0oszZNCoRTkLQ&s=09)" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="[[https://instagram.com/your-link](https://www.linkedin.com/in/rohit-patil-56a634247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.instagram.com/rohit__patil_096?igsh=MTc4aXR3YWlsenBqaw==)" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://wa.me/your-number" target="_blank"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
 </p>
 
