@@ -31,10 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrpatil45&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohitrpatil45&theme=dark&hide_border=true&border_radius=4.4&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 ---
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohitrpatil45&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <!-- Socials -->
 ## 🌍 Connect with Me  
 
