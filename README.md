@@ -31,11 +31,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrpatil45&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
  ![](https://nirzak-streak-stats.vercel.app/?user=rohitrpatil45&theme=merko&hide_border=false)
-</p>
+</p> -->
 ---
-![](https://nirzak-streak-stats.vercel.app/?user=rohitrpatil45&theme=merko&hide_border=false)
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitrpatil45&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+
 <!-- Socials -->
 ## 🌍 Connect with Me  
 
