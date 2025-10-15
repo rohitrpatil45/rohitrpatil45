@@ -31,7 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrpatil45&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-
+<p align="center">
+ ![](https://nirzak-streak-stats.vercel.app/?user=rohitrpatil45&theme=merko&hide_border=false)
+</p>
 ---
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitrpatil45&theme=merko&hide_border=false)
 <!-- Socials -->
