@@ -33,7 +33,7 @@
 
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrpatil45&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=rohitrpatil45&theme=merko&hide_border=false)
 <!-- Socials -->
 ## 🌍 Connect with Me  
 
