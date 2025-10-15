@@ -33,7 +33,7 @@
 
 
 ---
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohitrpatil45&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrpatil45&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Socials -->
 ## 🌍 Connect with Me  
 
