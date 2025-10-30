@@ -23,9 +23,7 @@
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitrpatil45&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrpatil45&layout=compact&theme=radical" alt="Top Langs" />
